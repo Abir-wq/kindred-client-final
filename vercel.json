@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://kindred-server-final.vercel.app/api/:path*"
+    }
+  ]
+}
